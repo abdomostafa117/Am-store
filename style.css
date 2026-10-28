@@ -173,3 +173,4 @@ header.sc .bar .logo{top:29px}
 [dir=ltr] .bar .ic,[dir=ltr] .bar nav.m{direction:ltr}}
 @media (max-width:400px){.bar .ib{width:34px}.bar .ic{gap:2px}.lang{margin-inline-end:0}.lang button{padding:3px 6px;font-size:12px}}
 @media (max-width:340px){.bar .logo svg{height:26px;width:auto}}
+@media (max-width:900px){.bar .ic a[href="#/cart"]{display:none}}
